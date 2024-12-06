@@ -1,0 +1,13 @@
+{
+  "name": "babel7",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "babel src --out-dir lib",
+    "build": "babel src --out-file output.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
